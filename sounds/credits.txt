@@ -1,0 +1,28 @@
+Credits of The Sounds Effects / Sounds
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gunshot.mp3 - KuraiWolf - https://opengameart.org/content/light-machine-gun
+
+Music (in /music)
+~~~~~
+throughspace.ogg - maxstack - https://opengameart.org/content/through-space
+space.mp3 - lasercheese - https://opengameart.org/content/space-orchestral
+sPACE.wav - ManofSteel - https://opengameart.org/content/space-5
+
+- Menu Music (in /music/menu)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+blindshift.mp3 - PetterTheSturgeon - https://opengameart.org/content/space-music-blind-shift
+observingthestar.ogg - yd - https://opengameart.org/content/another-space-background-track
+
+     ______              _
+    / ____/  _    _    _/ /_   _   ___   _________
+   / /___   \ \  / / /_   _/  / /_/ _/  / _____  /
+  / ____/    \ \/ /    / /   / ____/   / /    / / __
+ / /____     / /\ \   / /_  / /       / /____/ /_/ /
+/______/    /_/  \_\  \__/ /_/       /____________/
+
+----------------------------------------------------
+
+Unused
+~~~~~~
+https://opengameart.org/content/space-shooter-music
+* https://opengameart.org/content/stereotypical-90s-space-shooter-music
