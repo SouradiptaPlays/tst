@@ -1,5 +1,5 @@
 
-![ThroughSpaceTime](https://splays.comfotech.net/ThroughSpaceTime/images/logo.png)
+![ThroughSpaceTime](https://splays.comfotech.net/ThroughSpaceTime/images/logo.png?)
 
 
 # ThroughSpaceTime - A Space Game
